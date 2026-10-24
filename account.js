@@ -1,26 +1,27 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (billax)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "BillaX Topup";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "t.me/antorsir7";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+mtkVfUpAv8czY2Nl";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@billa1only6";
 
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
-১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+var notification_text = BILLAX TOPUP STORE ~ 
+সবথেকে কম দামে টপ-আপ করার বিশ্বস্ত ঠিকানা 
+সাশ্রয়ী দাম | দ্রুত ডেলিভারি | নির্ভরযোগ্য সার্ভিস
+আপনার পছন্দের গেমে টপ-আপ করুন সহজেই অর্ডার করুন নিশ্চিন্তে, সার্ভিস নিন আত্মবিশ্বাসে! 
